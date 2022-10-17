@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Reflection;
 
-namespace MoreExtensions;
+namespace MoreExtensions.Extensions;
 
 public static class CollectionExtensions
 {

@@ -1,4 +1,4 @@
-﻿namespace MoreExtensions;
+﻿namespace MoreExtensions.Extensions;
 
 public class Program
 {

@@ -1,6 +1,6 @@
 ﻿using MoreExtensions.SupportingClasses;
 
-namespace MoreExtensions;
+namespace MoreExtensions.Extensions;
 
 public static class RangeExtensions
 {
