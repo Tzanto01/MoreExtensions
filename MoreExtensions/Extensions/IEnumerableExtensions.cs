@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.ObjectModel;
 using System.Reflection;
+using MoreExtensions.Extensions.Exceptions;
 
 namespace MoreExtensions.Extensions;
 
-public static class CollectionExtensions
+public static class IEnumerableExtensions
 {
     public static void ForEach<T>(this IEnumerable<T> collection, Action a)
     {

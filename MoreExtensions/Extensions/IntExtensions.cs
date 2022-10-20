@@ -7,4 +7,13 @@ public static class IntExtensions
         foreach (var _ in ..i) 
             a();
     }
+
+    public static IEnumerable<int> To(this int fromNumber, int toNumber)
+    {
+        while (fromNumber <= toNumber)
+        {
+            yield return fromNumber;
+            fromNumber++;
+        }
+    }
 }

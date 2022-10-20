@@ -1,6 +1,6 @@
 ﻿namespace MoreExtensions.Globals;
 
-public class GlobalVariables
+public static class GlobalVariables
 {
-    
+    public static DateTime Now => DateTime.Now;
 }

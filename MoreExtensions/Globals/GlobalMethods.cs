@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace MoreExtensions.Globals;
+﻿namespace MoreExtensions.Globals;
 
 public static class GlobalMethods
 {
