@@ -1,4 +1,4 @@
-﻿namespace MoreExtensions.Extensions.Exceptions;
+﻿namespace MoreExtensions.Exceptions;
 
 public class NotFoundException : Exception
 {
